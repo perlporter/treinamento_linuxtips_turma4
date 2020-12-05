@@ -1,0 +1,7 @@
+Para acompanhar perfeitamente você precisa ter instalado em sua máquina:
+
+✅ Docker (macOS versão 2.5.0.1)
+✅ VsCode ou qualquer outro editor de código (vim: stable 8.2.2050)
+   Será necessário também uma conta na Cloud AWS.
+
+   Crie seu bucket para usar backend do state remoto.
