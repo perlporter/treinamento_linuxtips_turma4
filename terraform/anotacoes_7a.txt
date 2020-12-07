@@ -1,0 +1,10 @@
+Variáveis
+
+https://www.terraform.io/docs/configuration/variables.html
+
+Default values
+Type Constraints
+Input Variable Documentation
+Custom Validation Rules
+Suppressing Values in CLI Output
+Environment Variable
