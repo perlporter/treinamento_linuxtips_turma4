@@ -1,0 +1,15 @@
+Providers
+
+https://www.terraform.io/docs/providers/index.html
+
+AWS
+
+regions - us-east-1 / us-west-1 / sa-east-1
+
+Região é um conjunto de datacenters (AWS)
+
+Availability Zone (zonas de disponibilidade)
+
+https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
+
+
