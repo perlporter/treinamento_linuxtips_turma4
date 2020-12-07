@@ -1,3 +1,4 @@
 # 
 terraform/src/.terraform/
 terraform/src/.terraform.lock.hcl
+terraform/src/VAI
