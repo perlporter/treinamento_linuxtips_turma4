@@ -1,0 +1,22 @@
+Expression e Console
+
+https://www.terraform.io/docs/configuration/expressions/index.html
+
+Tipos 
+	string - Texto
+	number - Números
+	bool - Booleano
+	lists - Listas (Strings, Números, Booleano)  [ ]
+	map - Objetos - chave/valor { }
+	null - inexistente
+
+
+Referências
+	
+	val
+	local
+	data
+
+Terraform console para analise do state :-)
+
+Atributos / Parametros
