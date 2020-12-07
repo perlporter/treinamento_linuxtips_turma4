@@ -1,0 +1,12 @@
+
+HCL - https://github.com/hashicorp/hcl
+
+Documentação: https://www.terraform.io/docs/index.html
+
+Arquivo descritivo
+
+Arquivo de estado (último estado)
+
+Infraestrutura Mutável - Servidor "Floco de Neve" - sem controle
+
+Infraestrutura Imutável - Manutenção facil / Maior segunrança (Rollback)
