@@ -1,0 +1,25 @@
+Entendendo o HCL (Arquivo de definição do Terraform)
+
+https://www.terraform.io/docs/configuration/syntax.html
+
+Elementos
+
+* Blocos (blocks)
+	provider
+	terraform
+
+* Argumento (arguments) - Tudo que se configura dentro de um bloco
+
+* Identificadores (identifiers) - primeiro caracter não pode ser um número
+
+* Comentários (comments) = # - //  - /* */
+
+Primeiros Passos
+
+Docker
+docker run -it -v $PWD:/app -w /app --entrypoint "" hashicorp/terraform:light sh""
+
+# terraform init
+
+export AWS_ACCESS_KEY_ID
+export AWS_SECRET_ACCESS_KEY

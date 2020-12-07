@@ -1,0 +1,13 @@
+Comandos básicos
+
+# terraform init  (.terraform)
+
+	** terraform init -upgrade - Sempre atualiza os plugins **
+
+# terraform plan (diff - entre o pedido com o já existente)  - Até aqui nada é criado de fato
+
+	** terraform plan -out NOME_DO_ARQUIVO - Colocar o plano em um arquivo **
+
+# terraform apply (aplicar tudo) - Coloca em execução !!
+
+# terraform destroy (remove tudo) - 
