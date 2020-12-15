@@ -1,0 +1,6 @@
+Referência: https://www.terraform.io/docs/backends/
+
+Backend local (arquivo local) - quando não espeficicado
+
+Backend Remoto
+Backend local (arquivo local)

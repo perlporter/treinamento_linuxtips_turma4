@@ -1,0 +1,12 @@
+Introdução a utilização de módulos
+
+https://www.terraform.io/docs/configuration/blocks/modules/index.html
+
+Extensão precisa ser .tf
+
+Root Module - Módulo Raiz
+	Arquivos .tf na pasta raiz	
+
+Child Module - Módulo Filho
+	Necessita de INPUTS
+

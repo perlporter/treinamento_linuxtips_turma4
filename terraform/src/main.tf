@@ -1,6 +1,5 @@
 provider "aws" {
-  region  = "sa-east-1"
-  version = "~> 3.0"
+  region = "sa-east-1"
 }
 
 terraform {
@@ -9,5 +8,11 @@ terraform {
     bucket = "terraform-linuxtips-iac"
     key    = "terraform-test.tfstate"
     region = "sa-east-1"
+  }
+  required_providers {
+    aws = {
+      version = "~> 2.27.0"
+      source  = "hashicorp/aws"
+    }
   }
 }
