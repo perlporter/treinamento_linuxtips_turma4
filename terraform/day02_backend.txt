@@ -4,3 +4,8 @@ Backend local (arquivo local) - quando não espeficicado
 
 Backend Remoto
 Backend local (arquivo local)
+
+
+State Locking (habilidade de travamento no estado da configuração)
+
+terraform destroy -lock=false

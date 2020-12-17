@@ -1,0 +1,19 @@
+https://www.terraform.io/docs/state/
+
+O terraform não funciona sem STATE
+
+	- Mapeamento do mundo real
+	- Poderia ser feito com tags, mas nem todas usam
+	- Dependencias
+	- Performance
+		- Ideal para infra pequenas
+		- Ruim para grandes infras
+	- Sincronismo
+
+	Saída do State é um JSON
+
+	jq (binário manipula JSON)
+
+	terraform stat pull | jq .resources
+
+	(*) terraform refresh
