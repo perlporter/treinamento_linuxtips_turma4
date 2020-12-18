@@ -1,0 +1,6 @@
+Importando recursos
+
+https://www.terraform.io/docs/commands/import.html
+
+# terraform import (não gera código, apenas acrescenta ao STATE)
+
